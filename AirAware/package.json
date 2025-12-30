@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "airaware-root",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "npm --prefix project run dev",
+    "build": "npm --prefix project run build",
+    "typecheck": "npm --prefix project run typecheck",
+    "install-project": "npm --prefix project install"
+  }
+}
